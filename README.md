@@ -40,7 +40,7 @@ Keeping these separate means the ratio-calculation logic can be tested, reused, 
 1. Clone the repo:
    ```
    git clone https://github.com/JoshuaO-cloud/financial-ratio-dashboard.git
-cd financial-ratio-dashboard
+   cd financial-ratio-dashboard
    ```
 
 2. Install dependencies:
@@ -60,7 +60,6 @@ cd financial-ratio-dashboard
    ```
 
 ## Notes
-
 - yfinance is an unofficial data source and can occasionally return incomplete data; ratios that can't be calculated are shown as "N/A" rather than causing an error.
 - SEC EDGAR concept tags vary slightly between companies, so ratio availability may differ by ticker.
 
