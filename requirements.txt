@@ -1,1 +1,7 @@
-streamlityfinanceedgartoolspython-dotenv
+streamlit
+
+yfinance
+
+edgartools
+
+python-dotenv
