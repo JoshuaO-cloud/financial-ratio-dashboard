@@ -2,6 +2,8 @@
 
 An interactive dashboard that pulls company financial data from two independent sources — **Yahoo Finance** and **SEC EDGAR** — and calculates key financial ratios side by side, so you can cross-check the numbers instead of trusting a single source blindly.
 
+🔗 **Live app:** [financial-ratio-dashboard-ukmirkg82dyklzsoonugza.streamlit.app](https://financial-ratio-dashboard-ukmirkg82dyklzsoonugza.streamlit.app)
+
 ![Dashboard screenshot](Dashboard.png) 
 
 ## What it does
